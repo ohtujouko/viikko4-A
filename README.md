@@ -1,4 +1,4 @@
-viikko4-A
+viikko4-AB
 =========
 
-viikon 4 laskareiden "A"-repo
+viikon 4 laskareiden "A" ja "B" -repot
